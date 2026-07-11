@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring DevOps & Cloud Engineer | Infrastructure Automator</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/kavishkach">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+%26+Cloud+Engineer;BICT+(Hons)+UG+at+Eastern+University;Linux%2C+Docker%2C+K8s+%26+Terraform;Infrastructure+as+Code+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
@@ -60,7 +60,7 @@ With a background that includes a **Diploma in Business Administration**, I brid
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/kavishkachandrasekara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sahankavi100@gmail.com">
