@@ -15,15 +15,15 @@ I am a **BICT (Hons) Undergraduate** at Eastern University, Sri Lanka, deeply pa
 
 With a background that includes a **Diploma in Business Administration**, I bridge the gap between technical infrastructure and business decisions regarding cost optimization, performance, and scalability.
 
-- 🚀 Currently exploring: **DevSecOps & MLOps pipelines**
-- 🌱 Learning & building: Highly available and fault-tolerant infrastructure
-- 💼 Looking for: **Internship opportunities** in DevOps, Cloud, and Infrastructure Engineering
+-  Currently exploring: **DevSecOps & MLOps pipelines**
+-  Learning & building: Highly available and fault-tolerant infrastructure
+-  Looking for: **Internship opportunities** in DevOps, Cloud, and Infrastructure Engineering
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### ☁️ Cloud & DevOps (IaC, CI/CD, Containers)
+###  Cloud & DevOps (IaC, CI/CD, Containers)
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -34,7 +34,7 @@ With a background that includes a **Diploma in Business Administration**, I brid
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 🐧 Automation & Scripting
+###  Automation & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,7 +42,7 @@ With a background that includes a **Diploma in Business Administration**, I brid
 
 ---
 
-## 📜 Certifications
+##  Certifications
 *   **AZ900:** Microsoft Azure Fundamentals
 *   **Claude 101** Completion Certificate
 *   **Linux For Absolute Beginners** (Crash Course)
@@ -50,7 +50,7 @@ With a background that includes a **Diploma in Business Administration**, I brid
 
 ---
 
-## 📊 GitHub Ecosystem
+##  GitHub Ecosystem
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Kavishka's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkach&theme=tokyonight" alt="GitHub Streak" width="48%" />
